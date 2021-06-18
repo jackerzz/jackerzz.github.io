@@ -29,9 +29,26 @@ colors:
   primary: "#6200ee"
   # bg: "#F5F5F5"
   selection_bg: "#8e71c1" # 选取文字时的背景色
-  # 标签云中标签的起始色和结束色
-  # tag_start_color:
-  # tag_end_color:
+
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /tags/
+      icon: icon-price-tag-3-line
+  custom:
+    title: 搜索
+    path: /
+    icon: icon-search-line
+
 
 say:
   api: https://el-bot-api.vercel.app/api/words/young
