@@ -8,7 +8,7 @@ npm install
 ```
 # 预览效果
 ```sh
-   hexo clean && hexo g && hexo s
+   hexo clean && hexo g  && hexo s
 ```
 # 访问浏览器
 ```sh
@@ -23,7 +23,7 @@ https://www.jsdelivr.com/github
 ### 发布
 
 - hexo clean && hexo g -s    # 清除缓存+生成+预览
-- hexo clean && hexo g -d    # 清除缓存+生成+发布
+- hexo clean && hexo g && gulp  && hexo d    # 清除缓存+生成+发布
 - hexo deploye         # 发布 https://username.github.io
 
 ### 部署
