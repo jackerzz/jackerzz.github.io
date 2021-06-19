@@ -1,38 +1,20 @@
-# 初始化
+# 项目拉取
 ```shell
-hexo init username.github.io
+git clone --recursive https://github.com/jackerzz/jackerzz.github.io.git
 ```
-
-### 修改主题插件
-```shell
-git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
-git clone https://github.com/iissnan/hexo-theme-next themes/next  
+# 更新依赖
 ```
-
-### 修改 _config.yml 
-```yml
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-
-# theme: landscape # 默认插件
-# theme: yilia     # themes/yilia
-theme: next        # themes/next
-
-``` 
-### 预览效果
+npm install
+```
+# 预览效果
 ```sh
    hexo clean && hexo g && hexo s
 ```
-### 访问浏览器
-```python
+# 访问浏览器
+```sh
 # http://localhost:4000/
 ```
-### 新增文章
-```
-hexo new "PostName"        # 新建文章至 \source\_posts
-hexo new page  "pageName"  # 新建页面
-```
+
 ### cdn代理
 ```
 https://www.jsdelivr.com/github
@@ -45,6 +27,11 @@ https://www.jsdelivr.com/github
 - hexo deploye         # 发布 https://username.github.io
 
 ### 部署
+- 1.清除缓存+生成+发布
+```sh
+hexo clean && hexo g -d
+```
+- 2.推送hexo 分支到远程
 ```sh
 git add -A
 git commit -m "$info"

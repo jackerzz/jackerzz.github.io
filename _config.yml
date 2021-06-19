@@ -98,7 +98,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # theme: landscape # 官方
 # theme: keep #极简模式
-theme: yun  #首选 
+# theme: yun  #首选 
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,3 +108,9 @@ deploy:                               # 部署
   repo: git@github.com:jackerzz/jackerzz.github.io.git
   branch: master
   message: Update Hexo Static Content 
+
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   template: ./search.xml
