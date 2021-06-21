@@ -1,6 +1,6 @@
 # 项目拉取
 ```shell
-git clone --recursive https://github.com/jackerzz/jackerzz.github.io.git
+git clone --recurse-submodules https://github.com/jackerzz/jackerzz.github.io.git
 ```
 # 更新依赖
 ```

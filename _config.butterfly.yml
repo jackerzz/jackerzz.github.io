@@ -6,7 +6,7 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  Link: /link/ || fas fa-link
+  # Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -22,7 +22,7 @@ code_word_wrap: false
 # 社交
 social:
   fab fa-github: https://github.com/jackerzz || Github
-  fas fa-envelope: miningrest1024@gmail.com || Email
+  # fas fa-envelope: miningrest1024@gmail.com || Email
 
 # 顶部图
 # Favicon（網站圖標）
