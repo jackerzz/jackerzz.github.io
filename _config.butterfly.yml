@@ -53,23 +53,23 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - http://static.kongdf.com/1.jpeg
-    - http://static.kongdf.com/2.jpeg
-    - http://static.kongdf.com/3.jpeg
-    - http://static.kongdf.com/4.jpeg
-    - http://static.kongdf.com/5.jpeg
-    - http://static.kongdf.com/6.jpeg
-    - http://static.kongdf.com/7.jpeg
-    - http://static.kongdf.com/8.jpeg
-    - http://static.kongdf.com/9.jpg
-    - http://static.kongdf.com/10.jpg
-    - http://static.kongdf.com/11.jpg
-    - http://static.kongdf.com/12.jpg
-    - http://static.kongdf.com/13.jpg
-    - http://static.kongdf.com/14.jpg
-    - http://static.kongdf.com/15.jpg
-    - http://static.kongdf.com/16.jpg
-    - http://static.kongdf.com/17.jpg    
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/531767.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/615299.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/777211.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/1142950.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/1376766.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/1553463.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/1819651.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/2347011.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/2579916.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/2753432.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/3225517.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/3244513.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/3408744.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/3560044.jpg
+    - https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.1/images/canva/4751187.jpg
+
+
     
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
