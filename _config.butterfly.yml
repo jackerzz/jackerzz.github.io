@@ -184,3 +184,11 @@ pangu:
 # https://instant.page/
 # prefetch (預加載)
 instantpage: true
+
+# Lazyload (圖片懶加載)
+# https://github.com/verlok/vanilla-lazyload
+lazyload:
+  enable: true
+  field: site # site/post
+  placeholder:
+  blur: true
