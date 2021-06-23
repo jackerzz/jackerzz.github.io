@@ -17,4 +17,5 @@ date: 2020-05-15
 
 - [Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台](https://github.com/jackerzz/spug)
 - [Git 工具](https://git-scm.com/book/zh/v2)
+- [magic-python](https://github.com/iswbm/magic-python)
 - 持续更新中...
