@@ -1,7 +1,7 @@
 ---
 title: 常用的python资源
 tags:
-  - 书签
+  - python
 categories:
   - 书签 
 date: 2020-05-15
@@ -12,6 +12,7 @@ date: 2020-05-15
 - [统计计算-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/statcomp/html/_statcompbook/index.html)
 - [主页-李东风](https://www.math.pku.edu.cn/teachers/lidf/)
 - [Cross Validated](https://stats.stackexchange.com/)
+
 # 深度学习相关
 - [ElitesAI·动手学深度学习PyTorch版](https://www.boyuai.com/elites/course/cZu18YmweLv10OeV/jupyter/FUT2TsxGNn4g4JY1ayb1W)
 - [retinaface-基于pytorch人脸识别](https://github.com/ternaus/retinaface)

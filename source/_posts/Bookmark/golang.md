@@ -1,7 +1,7 @@
 ---
 title: 常用的golang资源
 tags:
-  - 书签
+  - golang
 categories:
   - 书签 
 date: 2020-05-15
