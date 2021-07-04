@@ -15,6 +15,7 @@ date: 2020-05-15
 
 # 深度学习相关
 - [ElitesAI·动手学深度学习PyTorch版](https://www.boyuai.com/elites/course/cZu18YmweLv10OeV/jupyter/FUT2TsxGNn4g4JY1ayb1W)
+- [深度学习500问](https://scutan90.github.io/DeepLearning-500-questions/#/)
 - [retinaface-基于pytorch人脸识别](https://github.com/ternaus/retinaface)
 - [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
 - [Pytorch学习](https://mofanpy.com/tutorials/machine-learning/torch/)

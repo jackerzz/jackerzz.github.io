@@ -22,7 +22,7 @@ https://www.jsdelivr.com/github
 https://www.pexels.com/zh-tw/photo/2919587/
 ### 发布
 
-- hexo clean && hexo g -s    # 清除缓存+生成+预览
+- hexo clean && hexo g -s && hexo s --debug    # 清除缓存+生成+预览
 - hexo clean && hexo g && gulp  && hexo d    # 清除缓存+生成+发布
 - hexo deploye         # 发布 https://username.github.io
 

@@ -2,9 +2,9 @@
 title: 用户权限设计
 tags:
   - python
-  - devops
+  - DevNote
 categories:
-  - python 
+  - DevNote 
 date: 2021-03-08
 ---
 

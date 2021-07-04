@@ -4,7 +4,7 @@ tags:
   - python
   - Algorithm
 categories:
-  - python 
+  - DevNote 
 date: 2021-05-07
 ---
 ## 如何避免雪花算法带来的时间回拨以及产生的数据太长

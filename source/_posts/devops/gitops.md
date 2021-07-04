@@ -2,9 +2,9 @@
 title: 从零开始实战gitops
 tags:
   - docker
-  - devops
+  - DevNote
 categories:
-  - devops 
+  - DevNote 
 date: 2021-03-27
 ---
 # **gitops**
