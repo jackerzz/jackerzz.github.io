@@ -63,3 +63,8 @@ docker restart mysql5.7
 	[mysqld]
 	lower_case_table_names=1
 ```
+- 修改最大连接数
+```
+set global max_connections=1000;
+SHOW VARIABLES LIKE 'max_connections';
+```
