@@ -1,9 +1,7 @@
 ---
 title: 分布式
 tags:
-  - github
-  - python
-  - golang
+  - 书签 
 categories:
   - 书签 
 date: 2021-03-27
