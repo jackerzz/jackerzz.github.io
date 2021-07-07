@@ -2,7 +2,6 @@
 title: 如何避免雪花算法带来的时间回拨以及产生的数据太长
 tags:
   - python
-  - Algorithm
 categories:
   - DevNote 
 date: 2021-05-07
