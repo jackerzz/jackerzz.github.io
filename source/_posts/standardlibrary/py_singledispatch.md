@@ -1,9 +1,9 @@
 ---
 title: 泛型函数的使用   
 tags:
-  - singledispatch
+  - python
 categories:
-  - python标准库
+  - python
 date: 2021-07-04
 ---
 ##  [泛型函数的使用](https://docs.python.org/zh-cn/3.7/library/functools.html?highlight=singledispatch#functools.singledispatch)

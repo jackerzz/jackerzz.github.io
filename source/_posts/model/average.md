@@ -1,9 +1,7 @@
 ---
 title: 均线策略
 tags:
-  - 均线策略
-  - pandas
-  - matplotlib
+  - python
 categories:
   - 金融模型 
 date: 2020-07-15

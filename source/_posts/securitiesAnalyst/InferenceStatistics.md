@@ -1,8 +1,7 @@
 ---
 title: 推断统计简明
 tags:
-  - t检验
-  - 假设检验
+  - 统计学
 categories:
   - 统计学 
 date: 2021-03-06
