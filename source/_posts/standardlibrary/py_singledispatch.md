@@ -1,7 +1,7 @@
 ---
 title: 泛型函数的使用   
 tags:
-  - singledispatch
+  - python标准库
 categories:
   - python标准库
 date: 2021-07-04

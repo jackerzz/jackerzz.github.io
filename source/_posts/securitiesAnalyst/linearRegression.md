@@ -1,7 +1,7 @@
 ---
 title: 线性回归简明
 tags:
-  - 线性回归
+  - 统计学
 categories:
   - 统计学 
 date: 2021-03-12

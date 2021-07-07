@@ -1,7 +1,7 @@
 ---
 title: 基于python 上下文回调属性实现golang 中的 延迟调用
 tags:
-  - contextlib
+  - python标准库
 categories:
   - python标准库
 date: 2021-07-03

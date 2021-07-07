@@ -1,7 +1,7 @@
 ---
 title: RESTful API 介绍
 tags:
-  - api
+  - python
 categories:
   - DevNote 
 date: 2021-07-05
