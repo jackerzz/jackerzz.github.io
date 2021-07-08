@@ -1,7 +1,6 @@
 ---
 title: 从零开始实战gitops
 tags:
-  - docker
   - DevNote
 categories:
   - DevNote 
