@@ -29,4 +29,8 @@ date: 2020-05-15
 - [Python 黑魔法玩法](http://magic.iswbm.com/zh/latest/preface.html)
 - [Python中文指南](http://python.iswbm.com/en/latest/)
 
+# 优秀blog
+- [崔庆才](https://cuiqingcai.com/)
+- [SEOfangfa](https://seofangfa.com/)
+
 - 持续更新中...

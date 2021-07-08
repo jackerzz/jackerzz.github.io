@@ -18,4 +18,17 @@ date: 2020-05-15
 - [Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台](https://github.com/jackerzz/spug)
 - [Git 工具](https://git-scm.com/book/zh/v2)
 - [magic-python](https://github.com/iswbm/magic-python)
+- [中间件/存储引擎/分布式/高并发/服务端等研发](https://github.com/y123456yz)
+- [计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)
+- [乐咕乐股-还不错哟](https://www.legulegu.com/stockdata/averageposition)
+# 数据来源
+- [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
+- [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
+- [tushare](https://tushare.pro/document/1?doc_id=40)
+- [上证交易所](http://www.sse.com.cn/)
+
+# 依赖安装
+- [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
+```python
+- pip install virtualenv==15.2.0
 - 持续更新中...

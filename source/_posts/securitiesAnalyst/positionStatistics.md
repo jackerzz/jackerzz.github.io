@@ -113,12 +113,35 @@ returns.close.var()
 ```python
 returns.close.std()
 ```
-
-## 期望与方差
 ## 二项分布
+>常用于描述金融市场中只有两个结果之间重复事件
+
 ## 正态分布
+>在金融学研究中,收益率等变量的分布常常假定为正太分布或者对数正态分布,由于正态分布的概率密度曲线呈钟形,人们常称正态分布曲线为钟形曲线
+
+>VaR(Value at Risk)指在一定概率水平(@%)下,某一金融资产或者金融资产组合在未来特定一段时间内的最大可能损失
+
 ## 其他连续分布
+>卡方分布
+>>[抽样分布：卡方分布](https://www.afenxi.com/26465.html)
+>>[非参数方法：卡方检验的运用](https://www.afenxi.com/25469.html)
+>>[多项分布的卡方检验](https://www.afenxi.com/25471.html)
+>>[泊松分布的卡方分布](https://www.afenxi.com/25476.html)
+>>[正态分布的卡方检验](https://www.afenxi.com/26747.html)
+>>[一致性的卡方检验](https://www.afenxi.com/26744.html)
+
+>t分布
+>>[抽样分布：t分布](https://www.afenxi.com/26408.html)
+
+>F分布
+>>[追本溯源F分布](https://www.afenxi.com/25457.html)
+
+
 ## 变量的关系
+>变量的特性
+>>独立性
+>>相关性
+
 
 
 

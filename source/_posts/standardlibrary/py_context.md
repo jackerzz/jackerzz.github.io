@@ -1,11 +1,7 @@
 ---
 title: 基于python 上下文回调属性实现golang 中的 延迟调用
 tags:
-<<<<<<< HEAD
-  - python
-=======
   - python标准库
->>>>>>> b44cef87b0c8eae5030a42cb224e230d344032a7
 categories:
   - python
 date: 2021-07-03
