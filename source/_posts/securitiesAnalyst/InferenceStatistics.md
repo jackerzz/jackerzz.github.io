@@ -71,3 +71,7 @@ stats.t.interval(0.95,len(x)-1,np.mean(x),stats.sem(x))
 >直接根据原假设和统计量的概率分布求解p值,然后p与alpha 进行比较,从而判断样本是不是小概率事件
 
 #  t检验
+
+
+# 参考资料
+- [概率与统计分析](https://www.cnblogs.com/NaughtyBaby/p/5568668.html)

@@ -24,9 +24,9 @@ date: 2020-05-15
 # 数据来源
 - [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
 - [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
-- [tushare](https://tushare.pro/document/1?doc_id=40)
+- [tusharePro](https://tushare.pro/document/1?doc_id=40)
 - [上证交易所](http://www.sse.com.cn/)
-
+- [Tushare](http://tushare.org/index.html#id5)
 # 依赖安装
 - [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
 ```python

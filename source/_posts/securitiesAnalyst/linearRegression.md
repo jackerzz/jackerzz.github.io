@@ -10,3 +10,6 @@ date: 2021-03-12
 # 模型拟合
 
 # 多元线性回归模型
+
+# 参考资料
+- [线性模型](https://www.cnblogs.com/NaughtyBaby/p/5603309.html)
