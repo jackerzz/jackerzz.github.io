@@ -7,7 +7,8 @@ categories:
 date: 2020-07-15
 ---
 # ARIMA模型原理及实现
-
+## 参考资料
+- [arma 数理方法 时间序列分析、常用统计软件及应用](https://www.youtube.com/watch?v=h0-SwgB5lis&list=PLwfrdF0abpWmQK0vKII-rtltfYqz0HT9y&index=17)
 ## 导包
 ```python
 import warnings
