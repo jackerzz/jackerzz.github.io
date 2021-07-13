@@ -31,4 +31,6 @@ date: 2020-05-15
 
 - [pixabay 图片](https://pixabay.com/zh/images/search/)
 
+- [WordPress一键脚本](https://github.com/atrandys/wordpress)
+
 - 持续更新中...

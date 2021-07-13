@@ -32,5 +32,17 @@ date: 2020-05-15
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)
 - [SEOfangfa](https://seofangfa.com/)
+- [乐咕乐股-还不错哟](https://www.legulegu.com/stockdata/averageposition)
+# 数据来源
+- ## [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
+- [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
+- [tushare](https://tushare.pro/document/1?doc_id=40)
+- [上证交易所](http://www.sse.com.cn/)
 
+# Miniconda3 安装 以及虚拟环境创建
+- [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
+```bash
+- pip install virtualenv==15.2.0
+- virtualenv venv
+```
 - 持续更新中...
