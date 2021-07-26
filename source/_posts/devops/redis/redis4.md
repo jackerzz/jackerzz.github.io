@@ -4,7 +4,7 @@ tags:
   - redis
 categories:
   - DevNote 
-date: 2021-07-19 24:30:34
+date: 2021-07-19 21:30:34
 ---
 
 ## Redis 开发笔记    
@@ -57,6 +57,68 @@ date: 2021-07-19 24:30:34
     
      HDEL 每次只能删除单个域，如果你需要在一个原子时间内删除多个域，请将命令包含在 MULTI / EXEC 块内。
      DEL/SET/HSET  如果你需要在一个原子时间内删除多个域，请将命令包含在 MULTI / EXEC 块内。
+
+## 监视器与慢查询日志
+
+key     | 描述 | 对应的功能 
+-------- | ----- | -----
+monitor | [实时打印出 Redis 服务器接收到的命令,调试用](http://doc.redisfans.com/server/monitor.html) | 可以实现将客户端变成一个监视器 
+showlog | [Slow log 是 Redis 用来记录查询执行时间的日志系统](http://doc.redisfans.com/server/slowlog.html) | 可以实现将客户端变成一个性能分析器
+
+### monitor 源码实现
+```python
+import redis        
+
+class Monitor():
+    def __init__(self, connection_pool):
+        self.connection_pool = connection_pool
+        self.connection = None
+
+    def __del__(self):
+        try:
+            self.reset()
+        except:
+            pass
+
+    def reset(self):
+        if self.connection:
+            self.connection_pool.release(self.connection)
+            self.connection = None
+
+    def monitor(self):
+        '''
+            
+        '''
+        if self.connection is None:
+            self.connection = self.connection_pool.get_connection(
+                'monitor', None)
+        self.connection.send_command("monitor")
+        return self.listen()
+
+    def parse_response(self):
+        return self.connection.read_response()
+
+    def listen(self):
+        while True:
+            yield self.parse_response()
+
+if  __name__ == '__main__':
+    pool = redis.ConnectionPool(host='localhost', port=6379, db=0)
+    monitor = Monitor(pool)
+    commands = monitor.monitor()
+
+    for c in commands :
+        print(c)
+    
+    # 实验结果
+    '''
+    b'OK'
+    b'1627285732.869499 [0 127.0.0.1:59306] "COMMAND"'
+    b'1627285745.409360 [0 127.0.0.1:59306] "KEYS" "*"'
+    b'1627285757.745049 [0 127.0.0.1:59306] "get" "key"'
+    b'1627285790.641467 [0 127.0.0.1:59306] "get" "privkey"'
+    '''
+```
 
 ## 参考资料
 - [redis doc](http://doc.redisfans.com/)
