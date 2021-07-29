@@ -4,7 +4,7 @@ tags:
   - redis
 categories:
   - DevNote 
-date: 2021-07-33 24:30:34
+date: 2021-07-20 24:30:34
 ---
 
 # 降低Redis内存占用率 
