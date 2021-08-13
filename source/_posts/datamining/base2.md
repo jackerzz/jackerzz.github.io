@@ -11,7 +11,6 @@ date: 2021-07-28 22:30:34
 包名称 | 功能描述
 -------- | ----- 
 [Numpy](https://numpy.org/doc/) | `数组支持`
-[Scipy](https://www.scipy.org/docs.html) | `矩阵支持`
 [Matplotlib](https://matplotlib.org/stable/contents.html) | `可视化工具`
 [Pandas](https://pandas.pydata.org/) | `探索``读取``处理`  
 [StatsModels](https://www.statsmodels.org/) | `统计建模分析` `统计建模和计量经济学`
