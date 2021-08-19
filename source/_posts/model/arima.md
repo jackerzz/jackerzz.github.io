@@ -77,7 +77,7 @@ plt.title('2014-01到2014-06 的收盘数据')
 plt.plot(train)
 plt.show()
 ```
-![](/images/post/closeFigure.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/closeFigure.png)
 
 ## 差分处理
 ```python
@@ -98,7 +98,7 @@ plt.title("经过2阶差分处理")
 
 plt.show()
 ```
-![](/images/post/diffDate.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/diffDate.png)
 
 ## 计算: AIC  BIC 
 ```python
@@ -121,7 +121,7 @@ fig = plt.figure(figsize=(12,8))
 fig = sm.graphics.tsa.plot_acf(resid.values.squeeze(), lags=40)
 plt.show()
 ```
-![](/images/post/模型检验.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/模型检验.png)
 
 ## 做D-W检验
 ```bash
@@ -157,7 +157,7 @@ fig = plt.figure(figsize=(12,8))
 ax = fig.add_subplot(111)
 fig = qqplot(resid, line='q', ax=ax, fit=True)
 ```
-![](/images/post/qqimg.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/qqimg.png)
 
 ## Ljung-Box检验（白噪声检验）
 ```bash
@@ -178,7 +178,7 @@ table.plot()
 plt.title("白噪声检验")
 ```
 
-![](/images/post/白噪声检验.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/白噪声检验.png)
 
 ### 结果分析:
 ```bash
@@ -201,4 +201,4 @@ ax = sub.plot(ax=ax)
 predict_sunspots.plot(ax=ax)
 plt.show()
 ```
-![](/images/post/模型预测.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/模型预测.png)

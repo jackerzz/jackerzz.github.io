@@ -214,4 +214,4 @@ TrainRun()
 ```
 
 ## 训练结果
-![](/images/post/1624195429.jpg)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/1624195429.jpg)

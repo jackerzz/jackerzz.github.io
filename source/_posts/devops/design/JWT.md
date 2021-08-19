@@ -17,7 +17,7 @@ date: 2021-07-06 21:50:34
 
 ### JWT 认证流程
 
-![](/images/st/jwt.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/st/jwt.png)
 
 1. 客户端使用用户名和密码请求登录
 2. 服务端收到请求后会去验证用户名和密码，如果用户名和密码跟数据库记录不一致则验证失败，如果一致则验证通过，服务端会签发一个 Token 返回给客户端
@@ -86,7 +86,7 @@ Signature 是 Token 的签名部分，通过如下方式生成：
 
 Secret 相当于一个密码，存储在服务端，一般通过配置文件来配置 Secret 的值，本例中是配置在 core/config.py 配置文件中:
 
-![](/images/st/20210707212335.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/st/20210707212335.png)
 
 最后生成的 Token 像这样：
 

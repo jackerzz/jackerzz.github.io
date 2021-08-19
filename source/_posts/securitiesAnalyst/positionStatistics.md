@@ -60,7 +60,7 @@ returns = pd.read_csv('sz_399376.csv')
 ```python
 returns.close.hist()
 ```
-![](/images/post/closeHist.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/closeHist.png)
 
 ```python
 returns.close.mean()

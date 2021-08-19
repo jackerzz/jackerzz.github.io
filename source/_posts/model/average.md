@@ -77,7 +77,7 @@ plt.plot(Ema90[90:],label="Ema90",color='g',linestyle='-.')
 plt.title("股票sh000952的90天 价格均线")
 plt.legend()
 ```
-![](/images/post/jiangejunxian.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/jiangejunxian.png)
 
 ### 股票价格的长短期均线
 ```python
@@ -90,4 +90,4 @@ plt.title("股票sh000952 股票价格的长短期均线")
 plt.legend()
 ```
 
-![](/images/post/loangsort.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/post/loangsort.png)

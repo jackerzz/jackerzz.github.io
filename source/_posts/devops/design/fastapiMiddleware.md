@@ -11,7 +11,7 @@ date: 2021-07-06
 中间件 作用 HTTP 调用添加自定义处理逻辑
 在实际开发中，我们可能需要对每个请求/返回做一些特定的操作，比如记录请求的 log 信息，在返回中插入一个 Header，对部分接口进行鉴权，这些都需要一个统一的入口，逻辑如下：
 
-![](/images/st/接口逻辑.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/st/接口逻辑.png)
 
 这个功能可以通过引入 middleware 中间件来解决。python [HTTP 模块](https://docs.python.org/zh-cn/3.7/library/http.html) 的设计的一大特点是特别容易构建中间件。Standard 所使用的 fastapi 框架也提供了类似的中间件。
 
