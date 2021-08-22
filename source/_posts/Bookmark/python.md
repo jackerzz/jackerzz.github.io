@@ -12,6 +12,16 @@ date: 2020-05-15
 - [统计计算-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/statcomp/html/_statcompbook/index.html)
 - [主页-李东风](https://www.math.pku.edu.cn/teachers/lidf/)
 - [Cross Validated](https://stats.stackexchange.com/)
+- [Python 3 开发网络爬虫](https://python3webspider.cuiqingcai.com/)
+
+# 可视化
+
+## Dash系列
+- [Dash-github](https://github.com/plotly/dash)
+- [Dash 示例应用程序-github](https://github.com/plotly/dash-sample-apps/)
+- [Dash Python 用户指南](https://dash-docs.herokuapp.com/)
+- [Dash 企业应用程序库](https://dash-gallery.plotly.host/Portal/)
+- [Dash2 Python 用户指南](https://dash.plotly.com/layout)
 
 # 深度学习相关
 - [ElitesAI·动手学深度学习PyTorch版](https://www.boyuai.com/elites/course/cZu18YmweLv10OeV/jupyter/FUT2TsxGNn4g4JY1ayb1W)
@@ -33,8 +43,9 @@ date: 2020-05-15
 - [崔庆才](https://cuiqingcai.com/)
 - [SEOfangfa](https://seofangfa.com/)
 - [乐咕乐股-还不错哟](https://www.legulegu.com/stockdata/averageposition)
+
 # 数据来源
-- ## [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
+- [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
 - [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
 - [tushare](https://tushare.pro/document/1?doc_id=40)
 - [上证交易所](http://www.sse.com.cn/)
