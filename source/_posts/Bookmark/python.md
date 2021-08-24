@@ -36,8 +36,9 @@ date: 2020-05-15
 - [wechatpy 是一个微信 (WeChat) 的第三方 Python SDK, 实现了微信公众号、企业微信和微信支付等 API](https://wechatpy.readthedocs.io/zh_CN/stable/#)
 - [人生苦短，我用Python目录](https://www.cnblogs.com/haiyan123/p/8387770.html)
 - [RPA简介 开发文档](https://docs.uibot.com.cn/guide/d1/ch004.html?version=0.3848085872352959#%E6%9C%89%E7%9B%AE%E6%A0%87%E5%91%BD%E4%BB%A4)
-- [Python 黑魔法玩法](http://magic.iswbm.com/zh/latest/preface.html)
-- [Python中文指南](http://python.iswbm.com/en/latest/)
+- [Python 黑魔法玩法](https://magic.iswbm.com/)
+- [Python中文指南](https://python.iswbm.com/)
+- [Python之函数（自定义函数，内置函数，装饰器，迭代器，生成器）](https://www.cnblogs.com/haiyan123/p/8387769.html)
 
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)
