@@ -8,8 +8,8 @@ date: 2021-08-21
 ---
 # Netflix经典推荐系统架构
 
-<!-- ![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.3/images/st/Netflix.png) -->
-![](/images/st/Netflix.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.4/images/st/Netflix.png)
+<!-- ![](/images/st/Netflix.png) -->
 
 # 挑战：
 架构既能处理海量数据，又能及时响应用户交互
@@ -19,7 +19,8 @@ date: 2021-08-21
 缺点：不能使用复杂的算法，只能读取少量数据
 
 # 离线层：
-![](/images/st/Workoffline.png)
+<!-- ![](/images/st/Workoffline.png) -->
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.4/images/st/Workoffline.png)
 特点：大部分计算包括模型训练都在这层完成
 优点：可采用复杂算法、可扫描海量数据
 缺点：不能对最新情景和新数据做响应，比如天粒度
@@ -36,10 +37,11 @@ date: 2021-08-21
 3、200毫秒：在线层查询第2步骤的结果，更新推荐列表
 
 # 信号和模型
-![](/images/st/Signalsandmodels.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.4/images/st/Signalsandmodels.png)
+
 
 # 事件和数据分发
-![](/images/st/Eventanddatadistribution.png)
+![](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.4/images/st/Eventanddatadistribution.png)
 
 # 参考资料
 [个性化和推荐系统架构](https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8)
