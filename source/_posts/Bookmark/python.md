@@ -53,6 +53,11 @@ date: 2020-05-15
 
 # Miniconda3 安装 以及虚拟环境创建
 - [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
+
+# web 文档
+- [Django_1.11.6](https://yiyibooks.cn/xx/Django_1.11.6/index.html)
+- [fastapi 文档](https://fastapi.tiangolo.com/)
+- [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
 ```bash
 - pip install virtualenv==15.2.0
 - virtualenv venv
