@@ -13,6 +13,7 @@ date: 2020-05-15
 - [主页-李东风](https://www.math.pku.edu.cn/teachers/lidf/)
 - [Cross Validated](https://stats.stackexchange.com/)
 - [Python 3 开发网络爬虫](https://python3webspider.cuiqingcai.com/)
+- [Pandas百问百答](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3MTAyMDMxOQ==&action=getalbum&album_id=1396580791106519041&scene=173&from_msgid=2247484671&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 # 可视化
 
