@@ -9,7 +9,7 @@ date: 2020-05-15
 # 金融相关
 - [R语言教程-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 - [金融时间序列分析讲义-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
-- [统计计算-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/statcomp/html/_statcompbook/index.html)
+- [统计计算-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/index.html)
 - [主页-李东风](https://www.math.pku.edu.cn/teachers/lidf/)
 - [Cross Validated](https://stats.stackexchange.com/)
 - [Python 3 开发网络爬虫](https://python3webspider.cuiqingcai.com/)
@@ -31,6 +31,7 @@ date: 2020-05-15
 - [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
 - [Pytorch学习](https://mofanpy.com/tutorials/machine-learning/torch/)
 - [ARIMA模型原理及实现](https://cxyzjd.com/article/sunnyxidian/92946542)
+- [动手学深度学习](https://zh.d2l.ai/chapter_installation/index.html)
 
 # 工具
 - [python3.7标准库](https://docs.python.org/zh-cn/3.7/library/index.html)
