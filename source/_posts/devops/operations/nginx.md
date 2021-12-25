@@ -3,7 +3,7 @@ title: Nginx 介绍
 tags:
   - Nginx
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-05 21:30:34
 ---
 

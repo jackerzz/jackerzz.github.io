@@ -1,9 +1,9 @@
 ---
 title: 从零开始实战gitops
 tags:
-  - DevNote
+  - 开发笔记
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-08-13 21:50:34
 ---
 # **gitops**

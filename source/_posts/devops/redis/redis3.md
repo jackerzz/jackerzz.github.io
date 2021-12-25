@@ -3,7 +3,7 @@ title: Redis 数据安全&性能保障
 tags:
   - redis
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-19 23:30:34
 ---
 ## Redis 数据安全&性能保障

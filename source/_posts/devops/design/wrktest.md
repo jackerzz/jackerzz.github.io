@@ -3,7 +3,7 @@ title: API 性能测试和调优
 tags:
   - python
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-07 23:39:00
 ---
 # API 性能测试和调优

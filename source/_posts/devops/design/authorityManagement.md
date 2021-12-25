@@ -3,7 +3,7 @@ title: 用户权限设计
 tags:
   - python
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-03-08
 ---
 

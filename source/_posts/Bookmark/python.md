@@ -4,8 +4,14 @@ tags:
   - 书签 
 categories:
   - 书签 
-date: 2020-05-15
+date: 2021-12-25
 ---
+# 自动化
+- [python测试开发人工智能项目实战-目录](https://china-testing.github.io/practices.html)
+- [Quicker您的指尖工具箱](https://getquicker.net/)
+- [基于Kubernetes(K8S)一步步部署成PaaS/DevOps（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等](https://github.com/ben1234560/k8s_PaaS)
+- [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
 # 金融相关
 - [R语言教程-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 - [金融时间序列分析讲义-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
@@ -14,10 +20,9 @@ date: 2020-05-15
 - [Cross Validated](https://stats.stackexchange.com/)
 - [Python 3 开发网络爬虫](https://python3webspider.cuiqingcai.com/)
 - [Pandas百问百答](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3MTAyMDMxOQ==&action=getalbum&album_id=1396580791106519041&scene=173&from_msgid=2247484671&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+- [pythonstock V2 项目简介](https://github.com/pythonstock/stock)
 
-# 可视化
-
-## Dash系列
+# 数据可视化
 - [Dash-github](https://github.com/plotly/dash)
 - [Dash 示例应用程序-github](https://github.com/plotly/dash-sample-apps/)
 - [Dash Python 用户指南](https://dash-docs.herokuapp.com/)
@@ -32,7 +37,7 @@ date: 2020-05-15
 - [Pytorch学习](https://mofanpy.com/tutorials/machine-learning/torch/)
 - [ARIMA模型原理及实现](https://cxyzjd.com/article/sunnyxidian/92946542)
 - [动手学深度学习](https://zh.d2l.ai/chapter_installation/index.html)
-
+- [Pytorch模型训练实用教程](https://github.com/TingsongYu/PyTorch_Tutorial)
 # 工具
 - [python3.7标准库](https://docs.python.org/zh-cn/3.7/library/index.html)
 - [wechatpy 是一个微信 (WeChat) 的第三方 Python SDK, 实现了微信公众号、企业微信和微信支付等 API](https://wechatpy.readthedocs.io/zh_CN/stable/#)
@@ -60,6 +65,7 @@ date: 2020-05-15
 - [Django_1.11.6](https://yiyibooks.cn/xx/Django_1.11.6/index.html)
 - [fastapi 文档](https://fastapi.tiangolo.com/)
 - [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
+- [wagtail web 框架](https://docs.wagtail.io/en/stable/)
 ```bash
 - pip install virtualenv==15.2.0
 - virtualenv venv

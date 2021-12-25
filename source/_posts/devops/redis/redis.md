@@ -3,7 +3,7 @@ title: Redis 基本数据结构使用
 tags:
   - redis
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-19 20:30:34
 ---
 

@@ -3,7 +3,7 @@ title: nginx配置
 tags:
   - Nginx
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-05 22:30:34
 ---
 # nginx配置

@@ -3,7 +3,7 @@ title: Redis 开发笔记
 tags:
   - redis
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-19 21:30:34
 ---
 

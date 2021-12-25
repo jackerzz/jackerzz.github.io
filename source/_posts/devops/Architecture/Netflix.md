@@ -3,7 +3,7 @@ title:  Netflix经典推荐系统架构
 tags:
   - python
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-08-21
 ---
 # Netflix经典推荐系统架构

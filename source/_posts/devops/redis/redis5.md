@@ -3,7 +3,7 @@ title: Redis 开发笔记2
 tags:
   - redis
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-19 24:30:34
 ---
 # Redis缓存穿透、缓存击穿、缓存雪崩解决方案与实现伪代码

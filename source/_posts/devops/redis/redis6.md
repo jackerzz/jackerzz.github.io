@@ -3,7 +3,7 @@ title: 降低Redis内存占用率
 tags:
   - redis
 categories:
-  - DevNote 
+  - 开发笔记 
 date: 2021-07-20 24:30:34
 ---
 
