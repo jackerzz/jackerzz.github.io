@@ -38,6 +38,7 @@ date: 2021-12-25
 - [ARIMA模型原理及实现](https://cxyzjd.com/article/sunnyxidian/92946542)
 - [动手学深度学习](https://zh.d2l.ai/chapter_installation/index.html)
 - [Pytorch模型训练实用教程](https://github.com/TingsongYu/PyTorch_Tutorial)
+
 # 工具
 - [python3.7标准库](https://docs.python.org/zh-cn/3.7/library/index.html)
 - [wechatpy 是一个微信 (WeChat) 的第三方 Python SDK, 实现了微信公众号、企业微信和微信支付等 API](https://wechatpy.readthedocs.io/zh_CN/stable/#)
@@ -51,23 +52,33 @@ date: 2021-12-25
 - [崔庆才](https://cuiqingcai.com/)
 - [SEOfangfa](https://seofangfa.com/)
 - [乐咕乐股-还不错哟](https://www.legulegu.com/stockdata/averageposition)
-
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 # 数据来源
 - [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
 - [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
 - [tushare](https://tushare.pro/document/1?doc_id=40)
 - [上证交易所](http://www.sse.com.cn/)
 
-# Miniconda3 安装 以及虚拟环境创建
-- [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
+# python 虚拟环境的使用
+> `Miniconda3`
+- [miniconda 各版本列表](https://repo.anaconda.com/miniconda/)
+- [Miniconda3-py37_4.8.2-Windows-x86_64.exe下载地址](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
+```bash
+conda create  venv python=3.7.6 # 创建虚拟环境名称为venv 的python 3.7.6版本的环境
+conda create  --prefix venv python=3.7.6 # 带前缀的方式创建
+conda env list # 查看当前设备的虚拟环境列表
+conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook Top: deep 表示环境名称
+```
+
+> `virtualenv的使用`
+```bash
+- pip install virtualenv==15.2.0
+- virtualenv venv
+```
 
 # web 文档
 - [Django_1.11.6](https://yiyibooks.cn/xx/Django_1.11.6/index.html)
 - [fastapi 文档](https://fastapi.tiangolo.com/)
 - [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
 - [wagtail web 框架](https://docs.wagtail.io/en/stable/)
-```bash
-- pip install virtualenv==15.2.0
-- virtualenv venv
-```
 - 持续更新中...

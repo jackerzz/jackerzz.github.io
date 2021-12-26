@@ -146,7 +146,7 @@ aside:
       link: https://github.com/jackerzz
   card_announcement:
     enable: true
-    content: 只有一件事会使人疲劳，摇摆不定和优柔寡断。而每做一件事，都会使人身心解放，即使把事情办坏了，也比什么都不做强。——斯蒂芬·茨威格《人类的群星闪耀时》
+    content: 想赢,不一定用实力和本Q,最重要的是信心和胆识,放弃,就一定是输,尝试还有一半机会
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

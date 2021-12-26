@@ -4,9 +4,15 @@ tags:
   - 书签
 categories:
   - 书签 
-date: 2020-05-15
+date: 2021-12-26
 ---
 
+# pdf 查找工具站点
+  - [pdfdrive](https://www.pdfdrive.com/)
+  - [libgen](http://libgen.rs/)
+  - [z-lib](https://z-lib.org/)
+
+  
 - [docker](https://www.cnblogs.com/ityouknow/category/1173004.html)
 
 - [ping检测](http://ping.chinaz.com/)
