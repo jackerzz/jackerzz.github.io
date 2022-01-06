@@ -6,15 +6,12 @@ categories:
   - 书签 
 date: 2021-12-26
 ---
+>`社会公共资源下载站点`
+- [pdfdrive](https://www.pdfdrive.com/)
+- [libgen](http://libgen.rs/)
+- [z-lib](https://z-lib.org/)
 
-# pdf 查找工具站点
-  - [pdfdrive](https://www.pdfdrive.com/)
-  - [libgen](http://libgen.rs/)
-  - [z-lib](https://z-lib.org/)
-
-  
-- [docker](https://www.cnblogs.com/ityouknow/category/1173004.html)
-
+> `其他`
 - [ping检测](http://ping.chinaz.com/)
 - [临时邮箱](https://www.linshiyouxiang.net/)
 - [大文件临时分享,非百度云](https://www.wenshushu.cn/)

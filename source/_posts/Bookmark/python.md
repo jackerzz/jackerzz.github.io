@@ -55,7 +55,7 @@ date: 2021-12-25
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 # 数据来源
 - [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
-- [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
+- [AKShare](https://www.akshare.xyz/topic/pandas/pandas-00.html)
 - [tushare](https://tushare.pro/document/1?doc_id=40)
 - [上证交易所](http://www.sse.com.cn/)
 
