@@ -22,6 +22,8 @@ date: 2021-12-25
 - [Pandas百问百答](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3MTAyMDMxOQ==&action=getalbum&album_id=1396580791106519041&scene=173&from_msgid=2247484671&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [pythonstock V2 项目简介](https://github.com/pythonstock/stock)
 
+- [Scipy Lecture Notes](http://scipy-lectures.org/)
+
 # 数据可视化
 - [Dash-github](https://github.com/plotly/dash)
 - [Dash 示例应用程序-github](https://github.com/plotly/dash-sample-apps/)
