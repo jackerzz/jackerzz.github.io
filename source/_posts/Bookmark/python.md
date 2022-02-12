@@ -49,7 +49,8 @@ date: 2021-12-25
 - [Python 黑魔法玩法](https://magic.iswbm.com/)
 - [Python中文指南](https://python.iswbm.com/)
 - [Python之函数（自定义函数，内置函数，装饰器，迭代器，生成器）](https://www.cnblogs.com/haiyan123/p/8387769.html)
-
+- [python3 PyMOTW-3](https://pymotw.com/3/concurrent.futures/index.html)
+- [python2 PyMOTW-2](https://pymotw.com/3/concurrent.futures/index.html)
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)
 - [SEOfangfa](https://seofangfa.com/)
