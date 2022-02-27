@@ -1,7 +1,7 @@
 ---
 title: 从零开始实战gitops
 tags:
-  - 开发笔记
+  - docker
 categories:
   - 开发笔记 
 date: 2021-08-13 21:50:34

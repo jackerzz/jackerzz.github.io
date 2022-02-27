@@ -14,6 +14,7 @@ date: 2022-01-15 21:50:34
 	
 - display()
 	用来展示数据
+	
 ## 常用方法
 np.ones(shape, dtype=None, order="C") 
 ```python

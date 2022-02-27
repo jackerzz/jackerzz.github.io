@@ -4,7 +4,7 @@ tags:
   - 书签 
 categories:
   - 书签 
-date: 2020-05-15
+date: 2022-02-15
 ---
 
 - [ApacheCN 由 iBooker 建立的公益性文档和教程翻译项目](https://github.com/apachecn)
@@ -30,6 +30,17 @@ date: 2020-05-15
 - [tusharePro](https://tushare.pro/document/1?doc_id=40)
 - [上证交易所](http://www.sse.com.cn/)
 - [Tushare](http://tushare.org/index.html#id5)
+
+# java
+- [advanced-java](https://github.com/doocs/advanced-java)
+- [jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
+
+# 前端低代码框架
+- [amis](https://github.com/baidu/amis)
+- [amis-editor-demo](https://github.com/aisuda/amis-editor-demo)
+- [mometa](https://github.com/imcuttle/mometa)
+
+
 # 依赖安装
 - [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
 ```python

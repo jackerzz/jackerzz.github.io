@@ -1,3 +1,11 @@
+---
+title:  pandas-索引
+tags:
+  - tookit
+categories:
+  - pandas
+date: 2022-01-15 21:50:34
+---
 # pandas
 
 ## 索引
@@ -23,6 +31,7 @@ df.iloc[0:3] # 在套一层中括号，返回原来的数据类型
 ```
 ## Series概念
 `可以将其理解为一个定长的有序字典`
+
 ### 基本属性
 ```python
 df = pd.Series(data=[150,150,150,300],index=["语文","数学","英语","理综"])

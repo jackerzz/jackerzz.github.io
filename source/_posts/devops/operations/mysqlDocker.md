@@ -1,7 +1,7 @@
 ---
 title: MySQL5.7 docker 容器化部署日志
 tags:
-  - 开发笔记
+  - docker
 categories:
   - 开发笔记 
 date: 2021-03-21

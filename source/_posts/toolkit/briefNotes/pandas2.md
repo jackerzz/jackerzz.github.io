@@ -1,5 +1,5 @@
 ---
-title:  pandas-DataFrame
+title:  pandas-分块创建
 tags:
   - tookit
 categories:
@@ -7,7 +7,7 @@ categories:
 date: 2022-01-15 21:50:34
 ---
 
-# pandas-DataFrame
+# pandas-分块创建
 
 ## 分块创建
 ```python
