@@ -1,9 +1,9 @@
 ---
 title: 数据预处理
 tags:
-  - DataMining
+  - 数据挖掘
 categories:
-  - DataMining 
+  - 数据挖掘 
 date: 2021-07-29 22:30:34
 ---
 

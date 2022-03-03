@@ -1,9 +1,9 @@
 ---
 title: 常用工具包介绍
 tags:
-  - DataMining
+  - 数据挖掘
 categories:
-  - DataMining 
+  - 数据挖掘 
 date: 2021-07-28 22:30:34
 ---
 # 常用工具包介绍
