@@ -4,13 +4,15 @@ tags:
   - 书签 
 categories:
   - 书签 
-date: 2021-12-25
+date: 2022-03-08
 ---
 # 自动化
 - [python测试开发人工智能项目实战-目录](https://china-testing.github.io/practices.html)
 - [Quicker您的指尖工具箱](https://getquicker.net/)
 - [基于Kubernetes(K8S)一步步部署成PaaS/DevOps（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等](https://github.com/ben1234560/k8s_PaaS)
 - [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+- [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实际产品。](https://github.com/explosion/spaCy)
+- [使用SpaCy做进阶自然语言处理](https://course.spacy.io/zh)
 
 # 金融相关
 - [R语言教程-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
@@ -23,6 +25,7 @@ date: 2021-12-25
 - [pythonstock V2 项目简介](https://github.com/pythonstock/stock)
 
 - [Scipy Lecture Notes](http://scipy-lectures.org/)
+- [股票学堂](https://www.metasecurities.com/help-detail-6-65.html)
 
 # 数据可视化
 - [Dash-github](https://github.com/plotly/dash)

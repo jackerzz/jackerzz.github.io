@@ -21,7 +21,7 @@ date: 2021-12-28 20:23
 - [kubesphere-最新文档](https://kubesphere.com.cn/docs/)
 - [kubesphere-v1.0](https://v1-0.docs.kubesphere.io/docs/zh-CN/devops/devops-faq/)
 - [kubesphere-v2.0](https://v2-1.sdocs.kubesphere.io/docs/zh-CN/)
-
+- [DockerSlim 是一款面向开发人员的工具，它提供了一组命令（build、xray和lint其他命令）来简化和优化开发人员使用容器的体验。它使您的容器更好、更小、更安全](https://github.com/docker-slim/docker-slim)
 # 一键部署 kubernetes 集群
 - [sealos](https://github.com/fanux/sealos)
 - [kubernetes 集群离线安装包一条命令高可用 支持国产化](https://www.sealyun.com/)
