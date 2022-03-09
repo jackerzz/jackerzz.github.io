@@ -11,7 +11,7 @@ date: 2022-03-08
 - [Quicker您的指尖工具箱](https://getquicker.net/)
 - [基于Kubernetes(K8S)一步步部署成PaaS/DevOps（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等](https://github.com/ben1234560/k8s_PaaS)
 - [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-- [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实际产品。](https://github.com/explosion/spaCy)
+- [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实s际产品。](https://github.com/explosion/spaCy)
 - [使用SpaCy做进阶自然语言处理](https://course.spacy.io/zh)
 
 # 金融相关
@@ -54,11 +54,13 @@ date: 2022-03-08
 - [Python之函数（自定义函数，内置函数，装饰器，迭代器，生成器）](https://www.cnblogs.com/haiyan123/p/8387769.html)
 - [python3 PyMOTW-3](https://pymotw.com/3/concurrent.futures/index.html)
 - [python2 PyMOTW-2](https://pymotw.com/3/concurrent.futures/index.html)
+
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)
 - [SEOfangfa](https://seofangfa.com/)
 - [乐咕乐股-还不错哟](https://www.legulegu.com/stockdata/averageposition)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
 # 数据来源
 - [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
 - [AKShare](https://www.akshare.xyz/topic/pandas/pandas-00.html)
