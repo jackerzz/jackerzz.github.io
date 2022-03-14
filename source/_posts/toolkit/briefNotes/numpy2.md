@@ -1,9 +1,9 @@
 ---
 title: ndarray的聚合
 tags:
-  - tookit
+  - analysisTool
 categories:
-  - pandas
+  - python
 date: 2022-01-15 21:50:34
 ---
 

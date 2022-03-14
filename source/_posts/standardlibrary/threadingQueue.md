@@ -1,6 +1,6 @@
 title: 一个基于thread和queue的线程池，以任务为队列元素，动态创建线程，重复利用线程，
 tags:
-  - python标准库
+  - 灰魔法
 categories:
   - python
 date: 2021-10-07 20:50:34

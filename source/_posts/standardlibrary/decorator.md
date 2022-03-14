@@ -1,6 +1,6 @@
 title: 装饰器
 tags:
-  - python标准库
+  - 灰魔法
 categories:
   - python
 date: 2021-08-19 20:50:34

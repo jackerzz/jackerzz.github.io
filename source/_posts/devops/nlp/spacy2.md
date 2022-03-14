@@ -3,7 +3,7 @@ title: nlp--使用spaCy进行大规模数据分析
 tags:
   - nlp
 categories:
-  - 开发笔记 
+  - 自然语言处理 
 date: 2022-03-08 22:50:34
 ---
  

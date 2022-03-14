@@ -1,7 +1,7 @@
 ---
 title: collections 容器数据类型
 tags:
-  - python标准库
+  - 灰魔法
 categories:
   - python
 date: 2021-08-22 21:30:34

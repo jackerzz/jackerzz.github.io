@@ -1,9 +1,9 @@
 ---
 title:  Pandas 数据结构
 tags:
-  - tookit
+  - analysisTool
 categories:
-  - pandas
+  - python
 date: 2021-09-19 21:50:34
 ---
 # Pandas 数据结构

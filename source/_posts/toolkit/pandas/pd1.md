@@ -1,8 +1,8 @@
 title: Pandas 概览
 tags:
-  - tookit
+  - analysisTool
 categories:
-  - pandas
+  - python
 date: 2021-09-15 21:50:34
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 描述性统计简明
 tags:
-  - 统计学
+  - analysisTool
 categories:
-  - 统计学 
+  - python 
 date: 2021-03-04
 ---
 

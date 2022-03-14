@@ -1,9 +1,9 @@
 ---
 title:  pandas-分块创建
 tags:
-  - tookit
+  - analysisTool
 categories:
-  - pandas
+  - python
 date: 2022-01-15 21:50:34
 ---
 

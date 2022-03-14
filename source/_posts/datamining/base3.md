@@ -1,9 +1,9 @@
 ---
 title: 数据探索
 tags:
-  - 数据挖掘
+  - analysisTool
 categories:
-  - 数据挖掘 
+  - python 
 date: 2021-07-29 21:30:34
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 数据挖掘基础
 tags:
-  - 数据挖掘
+  - analysisTool
 categories:
-  - 数据挖掘 
+  - python 
 date: 2021-07-28 21:50:34
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 基于python 上下文回调属性实现golang 中的 延迟调用
 tags:
-  - python标准库
+  - 灰魔法
 categories:
   - python
 date: 2021-07-03
