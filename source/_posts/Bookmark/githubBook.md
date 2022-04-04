@@ -34,12 +34,13 @@ date: 2022-02-15
 # java
 - [advanced-java](https://github.com/doocs/advanced-java)
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
+- [Spring Boot基础教程](https://github.com/dyc87112/SpringBoot-Learning)
 
 # 前端低代码框架
 - [amis](https://github.com/baidu/amis)
 - [amis-editor-demo](https://github.com/aisuda/amis-editor-demo)
 - [mometa](https://github.com/imcuttle/mometa)
-
+- [使用HTML5画布构建的金融轻量级图表](https://github.com/tradingview/lightweight-charts)
 
 # 依赖安装
 - [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)

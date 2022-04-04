@@ -11,12 +11,13 @@ date: 2022-03-08
 - [Quicker您的指尖工具箱](https://getquicker.net/)
 - [基于Kubernetes(K8S)一步步部署成PaaS/DevOps（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等](https://github.com/ben1234560/k8s_PaaS)
 - [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-- [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实s际产品。](https://github.com/explosion/spaCy)
+- [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实际产品。](https://github.com/explosion/spaCy)
 - [使用SpaCy做进阶自然语言处理](https://course.spacy.io/zh)
 
 # 金融相关
 - [R语言教程-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 - [金融时间序列分析讲义-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
+- [应用时间序列分析](https://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsanotes/html/_atsanotes/index.html#%E8%AF%BE%E7%A8%8B%E5%86%85%E5%AE%B9)
 - [统计计算-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/index.html)
 - [主页-李东风](https://www.math.pku.edu.cn/teachers/lidf/)
 - [Cross Validated](https://stats.stackexchange.com/)
@@ -78,15 +79,24 @@ conda env list # 查看当前设备的虚拟环境列表
 conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook Top: deep 表示环境名称
 ```
 
+# 数据分析
+- [Superset 是一个现代数据探索和数据可视化平台](https://github.com/apache/superset)
+- [数据科学备忘单](https://github.com/FavioVazquez/ds-cheatsheets)
+
 > `virtualenv的使用`
+
 ```bash
 - pip install virtualenv==15.2.0
 - virtualenv venv
 ```
 
 # web 文档
+
 - [Django_1.11.6](https://yiyibooks.cn/xx/Django_1.11.6/index.html)
 - [fastapi 文档](https://fastapi.tiangolo.com/)
 - [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
 - [wagtail web 框架](https://docs.wagtail.io/en/stable/)
-- 持续更新中...
+
+# 工具
+- [Uber 开源的 Python 性能分析工具](https://github.com/uber-archive/pyflame)
+- [健康检查](https://github.com/healthchecks/healthchecks)
