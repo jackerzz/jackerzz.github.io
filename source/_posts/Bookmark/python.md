@@ -28,7 +28,7 @@ date: 2022-03-08
 - [Scipy Lecture Notes](http://scipy-lectures.org/)
 - [股票学堂](https://www.metasecurities.com/help-detail-6-65.html)
 
-# 数据可视化
+# 大屏数据可视化
 - [Dash-github](https://github.com/plotly/dash)
 - [Dash 示例应用程序-github](https://github.com/plotly/dash-sample-apps/)
 - [Dash Python 用户指南](https://dash-docs.herokuapp.com/)
@@ -55,6 +55,8 @@ date: 2022-03-08
 - [Python之函数（自定义函数，内置函数，装饰器，迭代器，生成器）](https://www.cnblogs.com/haiyan123/p/8387769.html)
 - [python3 PyMOTW-3](https://pymotw.com/3/concurrent.futures/index.html)
 - [python2 PyMOTW-2](https://pymotw.com/3/concurrent.futures/index.html)
+- [代码打包工具---Nuitka](https://github.com/Nuitka/Nuitka)
+
 
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)
