@@ -56,7 +56,7 @@ date: 2022-03-08
 - [python3 PyMOTW-3](https://pymotw.com/3/concurrent.futures/index.html)
 - [python2 PyMOTW-2](https://pymotw.com/3/concurrent.futures/index.html)
 - [代码打包工具---Nuitka](https://github.com/Nuitka/Nuitka)
-
+- [AnotherRedisDesktopManager----redis可视化客户端](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 # 优秀blog
 - [崔庆才](https://cuiqingcai.com/)

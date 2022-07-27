@@ -17,6 +17,7 @@ date: 2022-02-15
 - [prometheus 监控框架使用](https://www.k8stech.net/tags/prometheus/)
 - [prometheus quickstart 监控框架使用](https://www.prometheus.wang/quickstart/)
 - [prometheus api 文档](https://prometheus.io/docs/prometheus/latest/querying/api/)
+- [prometheus-开箱即用的普罗米修斯警报规则](https://awesome-prometheus-alerts.grep.to/)
 
 # HA
 - [keepalived Ha 部署以及使用](https://blog.csdn.net/xyang81/article/details/52556886)

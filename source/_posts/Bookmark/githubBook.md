@@ -24,7 +24,9 @@ date: 2022-02-15
 - [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+
 # 数据来源
+
 - [baostock 重点](http://baostock.com/baostock/index.php/Python%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90) 
 - [AKShare](https://www.akshare.xyz/zh_CN/latest/data/stock/stock.html)
 - [tusharePro](https://tushare.pro/document/1?doc_id=40)
@@ -32,17 +34,20 @@ date: 2022-02-15
 - [Tushare](http://tushare.org/index.html#id5)
 
 # java
+
 - [advanced-java](https://github.com/doocs/advanced-java)
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
 - [Spring Boot基础教程](https://github.com/dyc87112/SpringBoot-Learning)
 
 # 前端低代码框架
+
 - [amis](https://github.com/baidu/amis)
 - [amis-editor-demo](https://github.com/aisuda/amis-editor-demo)
 - [mometa](https://github.com/imcuttle/mometa)
 - [使用HTML5画布构建的金融轻量级图表](https://github.com/tradingview/lightweight-charts)
 
 # 依赖安装
+
 - [Miniconda3-py37_4.8.2-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.2-Windows-x86_64.exe)
 ```python
 - pip install virtualenv==15.2.0
