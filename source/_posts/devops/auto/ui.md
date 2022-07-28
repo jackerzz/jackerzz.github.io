@@ -9,9 +9,15 @@ date: 2022-06-12 22:30:34
 
 # ui自动化
 - [metersphere--使用 UI 测试](https://metersphere.io/docs/quick_start/ui_test/) 
-- [分布式 Web UI 自动化系统的设计与实现--思路](https://blog.51cto.com/u_15333574/5307337)
 - [AutomationTest](https://github.com/yanchunhuo/AutomationTest)
 
+# 前端低代码化
+- [amis-react-node](https://github.com/YalongYan/amis-react-node.git) 
+- [react-amis-admin](https://github.com/tcly861204/react-amis-admin.git)
+- [amis-admin-vue](https://github.com/h7ml/amis-admin-vue.git)
+- [amis-react-starter](https://github.com/aisuda/amis-react-starter.git)
+- [amis_low_code](https://github.com/jackerzz/amis_low_code.git)
+ 
 # 分布式多任务selenium
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
 
@@ -35,7 +41,7 @@ date: 2022-06-12 22:30:34
 - [robotframework](https://robotframework.org/)
 - [robotframework-gihub](https://github.com/robotframework/robotframework)
 - [测试开发](https://github.com/china-testing/python-api-tesing#web-ui%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96)
-
+- [Web UI 自动化系统](https://blog.51cto.com/u_15333574/5307337)
 # robotframework的衍生品
 
 ## rpa
