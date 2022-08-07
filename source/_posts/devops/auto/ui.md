@@ -11,15 +11,28 @@ date: 2022-06-12 22:30:34
 
 - [metersphere--使用 UI 测试](https://metersphere.io/docs/quick_start/ui_test/) 
 - [AutomationTest](https://github.com/yanchunhuo/AutomationTest)
+- [DemoUI-python3 + selenium3 + PO + yaml + ddt + unittest等技术编写成基础测试框架](https://github.com/yingoja/DemoUI)
+# 代码化
 
-# 前端低代码化
+## 常见的低代码平台
+- [nocodb](https://github.com/nocodb/nocodb)
+- [n8n](https://github.com/n8n-io/n8n)
+- [appsmith](https://github.com/appsmithorg/appsmith)
+- [jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
+- [budibase](https://github.com/Budibase/budibase)
+- [amis](https://github.com/baidu/amis)
+- [superset](https://github.com/apache/superset)
 
+## 前端是数据管理平台（cms）
+- [strapi](https://github.com/strapi/strapi)
+- [umami](https://github.com/mikecao/umami)
+- [appwrite](https://github.com/appwrite/appwrite)
 - [amis-react-node](https://github.com/YalongYan/amis-react-node.git) 
 - [react-amis-admin](https://github.com/tcly861204/react-amis-admin.git)
 - [amis-admin-vue](https://github.com/h7ml/amis-admin-vue.git)
 - [amis-react-starter](https://github.com/aisuda/amis-react-starter.git)
 - [amis_low_code](https://github.com/jackerzz/amis_low_code.git)
- 
+
 # 分布式多任务selenium
 
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
