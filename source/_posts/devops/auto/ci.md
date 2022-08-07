@@ -1,21 +1,22 @@
 ---
-title: 安全审查套件---zaproxy
+title: 持续集成
 tags:
   - 测试平台构建
 categories:
   - 自动化测试 
-date: 2022-06-30 22:30:34
+date: 2022-05-30 22:30:34
 ---
+# super-linter
 
+在 GitLab 中运行 super-linter Action
 
-# zaproxy 扩展
-- [zaproxy--wiki](https://github.com/zaproxy/zap-extensions/wiki)
-- [开发扩展](https://github.com/zaproxy/zaproxy/wiki/DevExtending)
+- [super-linter](https://github.com/github/super-linter)
+- .gitlab-ci.yml
+```yml
+superlinter:
+  image: github/super-linter:latest
+  script: [ "true" ]
+  variables: { RUN_LOCAL: "true", DEFAULT_WORKSPACE: $CI_BUILDS_DIR }
+```
 
-
-
-# 参考连接
-
-- [zap-api-python ](https://github.com/zaproxy/zap-api-python)
-
-- [zap-extensions](https://github.com/zaproxy/zap-api-python)
+# [sonarqube](https://github.com/SonarSource/sonarqube)
