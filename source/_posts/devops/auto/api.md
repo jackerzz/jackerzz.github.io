@@ -1,5 +1,5 @@
 ---
-title: 安全审查套件---zaproxy
+title: 接口测试
 tags:
   - 测试平台构建
 categories:
@@ -35,7 +35,7 @@ date: 2022-06-30 22:30:34
 - 扩展能力不足。开源的接口测试工具无法实现扩展功能。比如，我们想生成不同格式的测试报告，想将测试报告发送到指定邮箱，又想让接口测试集成到CI中，做持续集成定时任务。
 
 # Robot Framework 博客园介绍
-[Robot Framework](https://www.cnblogs.com/yinjia/category/1598575.html)
+- [Robot Framework](https://www.cnblogs.com/yinjia/category/1598575.html)
 
 # 参考连接
 - [ddt 数据驱动](https://github.com/datadriventests/ddt)
