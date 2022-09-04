@@ -8,13 +8,13 @@ date: 2022-08-20 19:30:23
 ---
 
 # 敏捷能效
-![image-640](/source/images/devops/640.png)
+![image-640](/images/devops/640.png)
 
 # okr
-![image-642](/source/images/devops/642.png)
+![image-642](/images/devops/642.png)
 
 # 持续交付
-![持续交付](/source/images/devops/持续交付.jpg)
+![持续交付](/images/devops/持续交付.jpg)
 
 # 效能职责
 
