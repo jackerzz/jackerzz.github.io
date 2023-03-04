@@ -1,8 +1,9 @@
 title: Gunicorn与gevent
 tags:
-  - 灰魔法
-categories:
   - python
+
+categories:
+  - 开发笔记
 date: 2021-08-19
 ---
 # 依赖安装
