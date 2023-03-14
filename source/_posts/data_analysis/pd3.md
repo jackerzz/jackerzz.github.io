@@ -1,9 +1,9 @@
 ---
 title: 如何让 Pandas 按数据类型选择列？
 tags:
-  - analysisTool
+  - pandas
 categories:
-  - python
+  - pandas
 date: 2021-09-16 21:50:34
 ---
 

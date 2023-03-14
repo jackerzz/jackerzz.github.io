@@ -1,7 +1,7 @@
 ---
 title: 安全审查套件---zaproxy
 tags:
-  - 测试平台构建
+  - auto
 categories:
   - 自动化测试 
 date: 2022-07-29 22:30:34

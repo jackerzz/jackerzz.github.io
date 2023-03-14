@@ -1,8 +1,8 @@
 title: Pandas 概览
 tags:
-  - analysisTool
+  - pandas
 categories:
-  - python
+  - pandas
 date: 2021-09-15 21:50:34
 ---
 

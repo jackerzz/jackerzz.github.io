@@ -1,9 +1,9 @@
 ---
 title: numpy
 tags:
-  - analysisTool
+  - numpy
 categories:
-  - python
+  - numpy
 date: 2022-01-15 21:50:34
 ---
 

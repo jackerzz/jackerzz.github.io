@@ -1,7 +1,7 @@
 ---
 title: ui自动化测试3
 tags:
-  - 测试平台构建
+  - auto
 categories:
   - 自动化测试 
 date: 2022-07-28 22:30:34

@@ -7,7 +7,7 @@ categories:
 date: 2023-01-22
 ---
 - [详解Python+opencv裁剪/截取图片的几种方式](https://www.jb51.net/article/211183.htm)
-
+- [PaddleOCR详解](https://www.cnblogs.com/xiaoxia722/p/14627482.html)
 ## 示例
 ```python
 import json

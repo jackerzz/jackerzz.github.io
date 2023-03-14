@@ -1,7 +1,7 @@
 ---
 title: 接口测试
 tags:
-  - 测试平台构建
+  - auto
 categories:
   - 自动化测试 
 date: 2022-07-24 22:30:34

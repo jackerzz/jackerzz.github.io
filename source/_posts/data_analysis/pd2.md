@@ -1,9 +1,9 @@
 ---
 title: Pandas 基础用法
 tags:
-  - analysisTool
+  - pandas
 categories:
-  - python
+  - pandas
 date: 2021-09-16 21:50:34
 ---
 # Pandas 基础用法

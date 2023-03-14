@@ -1,7 +1,7 @@
 ---
 title: Android-容器化
 tags:
-  - 测试平台构建
+  - auto
 categories:
   - 自动化测试 
 date: 2022-07-25 22:30:34

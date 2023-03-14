@@ -1,7 +1,7 @@
 ---
 title: web performance
 tags:
-  - performance
+  - auto
 categories:
   - performance 
 date: 2022-07-28 22:30:34

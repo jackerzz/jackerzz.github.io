@@ -1,7 +1,7 @@
 ---
 title: React 面试题 & 回答
 tags:
-  - 基础
+  - 笔试
 categories:
   - 笔试
 date: 2021-09-16 21:50:34

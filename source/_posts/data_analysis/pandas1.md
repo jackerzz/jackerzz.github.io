@@ -1,9 +1,9 @@
 ---
 title:  pandas-索引
 tags:
-  - analysisTool
+  - pandas
 categories:
-  - python
+  - pandas
 date: 2022-01-15 21:50:34
 ---
 # pandas
