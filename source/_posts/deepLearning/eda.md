@@ -16,6 +16,31 @@ date: 2023-04-13
 ### 安装
 ```bash
 pip install dataprep
+pip install  connectorx 
+```
+#### connectorx
+- [connectorx](https://github.com/sfu-db/connector-x#supported-sources--destinations)
+
+- 单数据库
+```python
+import connectorx as cx
+
+cx.read_sql("postgresql://username:password@server:port/database", "SELECT * FROM lineitem")
+```
+- 分区加载
+```python
+import connectorx as cx
+
+cx.read_sql("postgresql://username:password@server:port/database", "SELECT * FROM lineitem", partition_on="l_orderkey", partition_num=10)
+```
+- 多数据库
+```
+import connectorx as cx
+
+db1 = "postgresql://username1:password1@server1:port1/database1"
+db2 = "postgresql://username2:password2@server2:port2/database2"
+
+cx.read_sql({"db1": db1, "db2": db2}, "SELECT * FROM db1.nation n, db2.region r where n.n_regionkey = r.r_regionkey")
 ```
 
 ## Pandas Profiling
