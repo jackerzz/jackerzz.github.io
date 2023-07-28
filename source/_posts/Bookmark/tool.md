@@ -38,6 +38,8 @@ date: 2021-12-26
 
 - [pixabay 图片](https://pixabay.com/zh/images/search/)
 
+- [yak-网络安全](https://yaklang.com/team/)
+
 - [WordPress一键脚本](https://github.com/atrandys/wordpress)
 
 - [一款支持 PDF 手写注释的笔记软件，支持 Linux、Windows、macOS 平台。看书的时候喜欢标注、做笔记，那这款工具肯定适合你](https://github.com/xournalpp/xournalpp)

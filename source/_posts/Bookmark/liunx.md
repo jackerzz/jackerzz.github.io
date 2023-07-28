@@ -18,8 +18,10 @@ date: 2022-02-15
 - [prometheus quickstart 监控框架使用](https://www.prometheus.wang/quickstart/)
 - [prometheus api 文档](https://prometheus.io/docs/prometheus/latest/querying/api/)
 - [prometheus-开箱即用的普罗米修斯警报规则](https://awesome-prometheus-alerts.grep.to/)
-
+- [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book/)
 # HA
 - [keepalived Ha 部署以及使用](https://blog.csdn.net/xyang81/article/details/52556886)
 - [Nginx源码安装](https://blog.csdn.net/xyang81/article/details/51476293)
 - [Keepalived安装与配置](https://blog.csdn.net/xyang81/article/details/52554398)
+
+docker run -d -p 5432:5432 --name postgres -e POSTGRES_PASSWORD=root postgres:14
