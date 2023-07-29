@@ -22,7 +22,7 @@ code_word_wrap: false
 # 社交
 social:
   fab fa-github: https://github.com/jackerzz || Github
-  # fas fa-envelope: miningrest1024@gmail.com || Email
+  fas fa-envelope: miningrest1024@gmail.com || Email
 
 # 顶部图
 # Favicon（網站圖標）
