@@ -84,7 +84,7 @@ conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook To
 # 数据分析
 - [Superset 是一个现代数据探索和数据可视化平台](https://github.com/apache/superset)
 - [数据科学备忘单](https://github.com/FavioVazquez/ds-cheatsheets)
-
+- [开源版本meilisearch 数据搜索引擎](https://github.com/meilisearch/meilisearch)
 > `virtualenv的使用`
 
 ```bash
@@ -98,7 +98,7 @@ conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook To
 - [fastapi 文档](https://fastapi.tiangolo.com/)
 - [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
 - [wagtail web 框架](https://docs.wagtail.io/en/stable/)
-
+- [pure-admin](https://yiming_chang.gitee.io/pure-admin-doc/)
 # 工具
 - [Uber 开源的 Python 性能分析工具](https://github.com/uber-archive/pyflame)
 - [健康检查](https://github.com/healthchecks/healthchecks)

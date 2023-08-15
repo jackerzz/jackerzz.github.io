@@ -4,7 +4,7 @@ tags:
   - PostgreSQL
 categories:
   - 开发笔记 
-date: 2027-07-14 22:30:34
+date: 2023-07-14 22:30:34
 ---
 # pgbouncer 是什么
 pgbouncer 是一个轻量级的连接池工具,主要用于为 PostgreSQL 数据库提供连接池功能。

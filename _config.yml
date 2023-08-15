@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:  Jackerzz's Blog
+title:  Jacker-zzk's Blog
 subtitle: ∞                            # 网站子标题 
-description: 有趣的旅行                 # 网站的描述性
-keywords:                              # 网站的关键字 
-author: Jackerzz                       # 网站的作者
+description: 有趣的旅行                  # 网站的描述性
+keywords: Devops|Robotframework|Deep learning|Image positioning|ansible # 网站的关键字 
+author: Jackerzz-zzk                   # 网站的作者
 language: zh-CN                        # 网站采用语言，与/theme/next/languages/zh-CN.yml下的文件名对应
 timezone:                              # 网站的时区
 # URL

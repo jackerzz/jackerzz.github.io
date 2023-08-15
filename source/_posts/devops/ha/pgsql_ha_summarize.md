@@ -4,7 +4,7 @@ tags:
   - PostgreSQL
 categories:
   - 开发笔记 
-date: 2027-07-14 22:30:34
+date: 2023-07-14 22:30:34
 ---
 # Pg sql 数据库高可用总结
 

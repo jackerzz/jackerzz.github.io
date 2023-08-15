@@ -4,7 +4,7 @@ tags:
   - PostgreSQL
 categories:
   - 开发笔记 
-date: 2027-07-14 22:30:34
+date: 2023-07-14 22:30:34
 ---
 
 # [全局负载均衡](http://www.h3c.com/cn/d_202108/1452874_30005_0.htm)

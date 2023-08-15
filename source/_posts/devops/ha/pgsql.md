@@ -4,7 +4,7 @@ tags:
   - PostgreSQL
 categories:
   - 开发笔记 
-date: 2027-07-12 22:30:34
+date: 2023-07-12 22:30:34
 ---
 
 # PostgreSQL 分布式高可用集群方案

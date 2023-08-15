@@ -4,7 +4,7 @@ tags:
   - PostgreSQL
 categories:
   - 开发笔记 
-date: 2027-07-13 22:30:34
+date: 2023-07-13 22:30:34
 ---
 
 # Patroni支持以下几种分布式配置存储(DCS)系统来保存集群的元数据和Leader信息:
