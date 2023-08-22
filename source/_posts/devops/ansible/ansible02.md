@@ -27,8 +27,7 @@ date: 2022-05-10 19:30:23
 3. 当你阅读完以上内容以后，需要对以下`ansible\lib\ansible\module_utils`模块进行深入了解，因为它将是你未来写 ansible api 时最好的参考之一
 
 4. 请通过网页仔细的阅读这部分内容（非常重要） 
-- [必读---ansible执行ping模块的过程](https://upload-images.jianshu.io/upload_images/3629406-cdde75580732a013.jpg)
-- [备选---当上面的链接不可用时](https://github.com/jackerzz/jackerzz.github.io/blob/hexo/source/images/ansible/3629406-cdde75580732a013.jpg)
+![ansible/3629406-cdde75580732a013.jpg](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.8/images/ansible/3629406-cdde75580732a013.jpg)
 
 5. 当然我们在开发自动化运维，肯定少不了分布式大规模的任务管理，这时候我需要用到celery 来做多节点的ansible 管理
 - 注意事项： 
