@@ -108,11 +108,6 @@ BDD-RF实践
 ![1import.png](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.8/images/ansible/1import.png)
 
 
-
-
-
-
-
 图中，我将测试分层，首先将数据分离出来，此处的demo做的不极致，极致的做法可以将测试数据用单独的文件维护起来，通过引入资源后去获取测试数据；
 
 将关键字分层，最基本的分层方法，目的为了强业务性关键字，提高复用率，降低维护成本，减少代码冗余；
@@ -145,8 +140,6 @@ BDD风格代码，首先创建行为驱动关键字，如visit the host ${alias}
 5、 预期结果
 ![6import.png](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.8/images/ansible/6import.png)
 ![7import.png](https://cdn.jsdelivr.net/gh/jackerzz/jackerzz.github.io@ersion1.8/images/ansible/7import.png)
-
-
 ## 总结
 BDD不是工具，而是一套流程和一系列实践。它需要团队成员的通力合作，可以帮助整个团队更好的理解业务，理解软件。
 

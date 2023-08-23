@@ -16,7 +16,7 @@ date: 2022-07-25 22:30:34
 - [taobao-iphone-device-该工具能够用于与iOS设备进行通信, 提供以下功能](https://github.com/alibaba/taobao-iphone-device)
 - [uiautomator2-](https://github.com/openatx/uiautomator2)
 - [uiautomator](https://github.com/xiaocong/uiautomator)
-
+- [android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview)
 # taobao-iphone-device
 ```
 该工具能够用于与iOS设备进行通信, 提供以下功能
