@@ -1,7 +1,7 @@
 ---
 title: ui自动化测试2
 tags:
-  - auto
+  - 自动化测试
 categories:
   - 自动化测试 
 date: 2022-07-23 22:30:34

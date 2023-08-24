@@ -1,7 +1,7 @@
 ---
 title: 敏捷度量
 tags:
-  - R&D Efficiency
+  - 工程效能
 categories:
   - 研发效能
 date: 2023-03-16 21:50:34

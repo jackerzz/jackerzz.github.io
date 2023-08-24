@@ -1,7 +1,7 @@
 ---
 title: 驱动开发方法论
 tags:
-  - auto
+  - 自动化测试
 categories:
   - 自动化测试 
 date: 2022-07-20 22:30:34

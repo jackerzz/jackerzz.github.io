@@ -1,7 +1,7 @@
 ---
 title: pyarmor 打包模块
 tags:
-  - Industrial efficiency
+  - 工程效能
 categories:
   - 效能研发
 date: 2023-03-16 21:50:34
