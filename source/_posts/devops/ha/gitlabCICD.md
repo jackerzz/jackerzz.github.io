@@ -7,6 +7,10 @@ categories:
 date: 2022-06-12 22:30:34
 ---
 
+# CICD 工具
+- [drone](https://github.com/harness/drone)
+- [tekton 云原生](https://tekton.dev/docs/)
+- [jenkins-x](https://www.jenkins.io/zh/projects/jenkins-x/)
 
 # RedisLive
 
