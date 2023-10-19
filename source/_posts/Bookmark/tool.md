@@ -59,3 +59,62 @@ date: 2021-12-26
 ## 工具脚本
 - [Pake](https://github.com/tw93/Pake)
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+
+#### 
+## 接口性能分析
+### java 性能分析
+- [`arthas 在线练习-使浏览器获取平台token`](https://killercoda.com/explore?search=arthas&type=profile)
+- [`arthas 在线练习-中文化环境`](https://arthas.aliyun.com/doc/arthas-tutorials.html?language=cn&id=command-reset)
+- [arthas](https://arthas.aliyun.com/doc/quick-start.html)
+`Arthas 是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的出入参、异常，监测方法执行耗时，类加载信息等，大大提升线上问题排查效率。`
+1. 启动 math-game
+- math-game是一个简单的程序，每隔一秒生成一个随机数，再执行质因数分解，并打印出分解结果。
+- [arthas-github](https://github.com/alibaba/arthas)
+```bash
+curl -O https://arthas.aliyun.com/math-game.jar
+java -jar math-game.jar
+```
+### python 性能分析
+#### [PySnooper](https://github.com/cool-RR/PySnooper)
+- [memory_profiler](https://github.com/pythonprofilers/memory_profiler)
+- [vprof](https://github.com/nvdv/vprof)
+##### flask 案例
+```python
+from flask import Flask
+import pysnooper
+
+app = Flask(__name__)
+
+@app.route('/double', methods=['POST']) 
+@pysnooper.snoop()
+def double_numbers():
+    numbers = request.json['numbers']
+    doubled_numbers = []
+
+    for num in numbers:
+        doubled_num = num * 2 
+        doubled_numbers.append(doubled_num)
+
+    return jsonify(doubled_numbers)
+```
+- 接口测试
+```bash
+curl -X POST -H "Content-Type: application/json" -d '{"numbers":[1,2,3]}' http://localhost:5000/double
+```
+- 结果
+```bash
+Starting var:.. numbers = [1, 2, 3] 
+15:42:04.345209 call         8 @app.route('/double', methods=['POST'])
+15:42:04.345385 line         9 @pysnooper.snoop()
+15:42:04.345441 line        10 def double_numbers():
+15:42:04.345500 line        11     numbers = request.json['numbers']
+15:42:04.345543 line        12     doubled_numbers = []
+New var:....... doubled_numbers = []
+15:42:04.345595 line        14     for num in numbers:
+Starting var:.. num = 1
+# 省略部分输出
+Ending var:.... doubled_numbers = [2, 4, 6]
+15:42:04.345963 return      17     return jsonify(doubled_numbers)
+```
+
+
