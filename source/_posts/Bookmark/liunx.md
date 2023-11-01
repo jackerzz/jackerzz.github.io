@@ -11,7 +11,7 @@ date: 2022-02-15
 # liunx
 
 - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
-
+- [Network-security-study-notes主要记录网络安全学习笔记，包含WEB基础、提权、APP渗透、内网横向移动、工具学习等](https://github.com/djytmdj/Network-security-study-notes/tree/main)
 # prometheus 
 
 - [prometheus 监控框架使用](https://www.k8stech.net/tags/prometheus/)
