@@ -13,7 +13,7 @@ date: 2022-03-08
 - [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 - [spaCy 是Python 和 Cython 中用于高级自然语言处理的库。它建立在最新研究的基础上，从一开始就设计用于实际产品。](https://github.com/explosion/spaCy)
 - [使用SpaCy做进阶自然语言处理](https://course.spacy.io/zh)
-
+- [rembg 清除图像背景](https://github.com/danielgatis/rembg)
 # 金融相关
 - [R语言教程-李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 - [金融时间序列分析讲义-李东风](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
@@ -82,6 +82,7 @@ conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook To
 ```
 
 # 数据分析
+- [lihang-code 《统计学习方法》的代码实现 ](https://github.com/fengdu78/lihang-code.git)
 - [Superset 是一个现代数据探索和数据可视化平台](https://github.com/apache/superset)
 - [数据科学备忘单](https://github.com/FavioVazquez/ds-cheatsheets)
 - [开源版本meilisearch 数据搜索引擎](https://github.com/meilisearch/meilisearch)

@@ -8,7 +8,7 @@ date: 2022-05-10 19:20:23
 ---
 
 # 参考连接
-## celery 分布式
+##  分布式
 [celery + rabbitmq初步](https://cloud.tencent.com/developer/article/1444974)
 [参数详解](https://www.cnblogs.com/traditional/p/11788756.html)
 [消息队列 Kombu 之 基本架构](https://www.1024sou.com/article/1386.html)
