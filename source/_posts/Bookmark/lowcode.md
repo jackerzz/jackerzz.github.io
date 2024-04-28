@@ -24,6 +24,8 @@ date: 2022-02-15
 - [builder 可视化网页编辑器](https://github.com/frappe/builder)
 # 低代码框架ERP
 - [erpnext](https://github.com/jackerzz/erpnext)
+- [interact](https://github.com/taye/interact.js)
+- [pdfjs-dist](https://github.com/mozilla/pdfjs-dist)
 # 数据库配置
 - [MySQL 安装及设置](https://iguoli.github.io/2018/03/18/MySQL.html)
 - [Setup MariaDB Server](https://github.com/frappe/frappe/wiki/Setup-MariaDB-Server)

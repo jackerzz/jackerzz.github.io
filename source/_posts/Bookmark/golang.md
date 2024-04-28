@@ -14,6 +14,7 @@ date: 2021-12-28 20:23
 - [gin-vue-admin: 基于golang 开发的前后端分离项目](https://github.com/jackerzz/gin-vue-admin)
 - [Kubebuilder ](https://book.kubebuilder.io/introduction.html)
 - [docker](https://www.cnblogs.com/ityouknow/category/1173004.html)
+- [Ansible Semaphore](https://github.com/semaphoreui/semaphore)
 
 # kubesphere系列
 - [kubesphere-开发社区](https://kubesphere.com.cn/forum/)

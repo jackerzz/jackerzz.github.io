@@ -6,6 +6,8 @@ categories:
   - 书签 
 date: 2022-03-08
 ---
+# 动态密码
+- [pyotp Python一次性密码库](https://github.com/pyauth/pyotp)
 # 自动化
 - [python测试开发人工智能项目实战-目录](https://china-testing.github.io/practices.html)
 - [Quicker您的指尖工具箱](https://getquicker.net/)
@@ -94,7 +96,7 @@ conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook To
 ```
 
 # web 文档
-
+- [python bigtree ](https://github.com/kayjan/bigtree/tree/master)
 - [Django_1.11.6](https://yiyibooks.cn/xx/Django_1.11.6/index.html)
 - [fastapi 文档](https://fastapi.tiangolo.com/)
 - [Django channels](https://channels.readthedocs.io/en/stable/introduction.html)
