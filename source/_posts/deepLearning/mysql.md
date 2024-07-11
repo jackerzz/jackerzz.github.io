@@ -80,6 +80,8 @@ wget https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm
 （2）安装 yum repo 文件并更新 yum 缓存
 
 ```shell
+rpm -ivh https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm 
+sudo rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2023
 rpm -ivh mysql80-community-release-el7-1.noarch.rpm
 ```
 

@@ -81,6 +81,8 @@ conda create  venv python=3.7.6 # 创建虚拟环境名称为venv 的python 3.7.
 conda create  --prefix venv python=3.7.6 # 带前缀的方式创建
 conda env list # 查看当前设备的虚拟环境列表
 conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook Top: deep 表示环境名称
+- pip install virtualenv==15.2.0
+- virtualenv venv
 ```
 
 # 数据分析
@@ -88,12 +90,6 @@ conda activate deep && jupyter lab # 进入虚拟环境并允许 jupyter Nook To
 - [Superset 是一个现代数据探索和数据可视化平台](https://github.com/apache/superset)
 - [数据科学备忘单](https://github.com/FavioVazquez/ds-cheatsheets)
 - [开源版本meilisearch 数据搜索引擎](https://github.com/meilisearch/meilisearch)
-> `virtualenv的使用`
-
-```bash
-- pip install virtualenv==15.2.0
-- virtualenv venv
-```
 
 # web 文档
 - [python bigtree ](https://github.com/kayjan/bigtree/tree/master)

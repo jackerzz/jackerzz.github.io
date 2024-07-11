@@ -21,3 +21,6 @@ date: 2022-08-08
 - [PandaGPT](https://github.com/yxuansu/PandaGPT.git)
 
 - [privateGPT](https://github.com/imartinez/privateGPT.git)
+
+# 从企业数据构建人工智能的平台
+- [从企业数据构建人工智能的平台 mindsdb](https://github.com/mindsdb/mindsdb/tree/main)

@@ -6,6 +6,11 @@ categories:
   - 书签 
 date: 2021-12-26
 ---
+# 开发工具
+- [code-server](https://github.com/coder/code-server)
+- [coder-vscode](https://github.com/coder/coder)
+- [EasySpider 数据采集](https://github.com/NaiboWang/EasySpider/tree/master)
+# 协同工具资源
 > 协同办公
 - [drawio](https://github.com/jgraph/drawio-desktop/releases/tag/v19.0.3)
 
@@ -60,7 +65,6 @@ date: 2021-12-26
 - [Pake](https://github.com/tw93/Pake)
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 
-#### 
 ## 接口性能分析
 ### java 性能分析
 - [`arthas 在线练习-使浏览器获取平台token`](https://killercoda.com/explore?search=arthas&type=profile)
@@ -74,10 +78,12 @@ date: 2021-12-26
 curl -O https://arthas.aliyun.com/math-game.jar
 java -jar math-game.jar
 ```
+
 ### python 性能分析
 #### [PySnooper](https://github.com/cool-RR/PySnooper)
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 - [vprof](https://github.com/nvdv/vprof)
+
 ##### flask 案例
 ```python
 from flask import Flask
